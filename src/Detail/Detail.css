@@ -1,0 +1,26 @@
+.body{
+    background-color: rgb(214, 235, 238);
+}
+.main{
+    text-align: center;
+    background-color: rgb(228, 206, 213);
+}
+.hero{
+    width: 500px;
+    height: 400px;
+    text-align: center;
+}
+.heading{
+    font-family: 'Lucida Sans';
+    color: teal;
+    font-size: 100rem;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+
+.texttype{
+    font-weight: 1000;
+    margin-bottom: 100px;
+}
